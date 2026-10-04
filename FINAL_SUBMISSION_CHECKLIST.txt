@@ -1,0 +1,22 @@
+BDA400 ASSIGNMENT 6 - FINAL SUBMISSION CHECKLIST
+
+Required by the assignment:
+[ ] R script is in the public GitHub repository.
+[ ] Cover page includes student name, assignment title, brief project description, and repository link.
+[ ] GitHub repository is PUBLIC.
+[ ] Code is organized and commented.
+[ ] Shiny application runs successfully.
+[ ] GitHub changes are committed/pushed.
+[ ] Cover page is submitted on the LMS.
+[ ] Public repository link is included on the LMS / cover page.
+
+Before submitting:
+1. Create/open your BDA400 Assignment 6 GitHub repository.
+2. Upload app.R, Villena_Liz_BDA400_Assignment6.R, README.md, and the screenshots folder.
+3. Replace ADD_YOUR_ASSIGNMENT_6_GITHUB_LINK_HERE in README.md and the cover page with your actual URL.
+4. Commit changes.
+5. Open the public repository link in a private/incognito browser to confirm it is accessible.
+6. Submit the completed cover page on the LMS.
+
+Screenshots are supporting evidence; the assignment's stated deliverables are the R script,
+cover page, and repository link.
